@@ -21,3 +21,9 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+This is a basic plot so we have made some changes
+
+```{r plot}
+plot(1:10)
+```
+
